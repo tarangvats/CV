@@ -1,0 +1,35 @@
+<style>
+            body
+            {
+                background-color:#fff8dc;
+            }
+            h1
+            {
+                color:blue;
+
+            }
+            h2
+            {
+                color:blue;
+
+            }
+            h3
+            {
+                color:blue;
+
+            }
+
+
+            hr
+            {
+                background-color: white;
+                border-color:black;
+                border-style: dotted;
+                border-width: 10px 0px 0px 0px;
+                width: 100px;
+
+            }
+
+
+
+        </style>
